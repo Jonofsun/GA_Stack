@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,3 +26,10 @@ namespace GA_Stack
     } // class
 
 } // namespace
+=======
+public class MyStack {
+    
+    
+
+}
+>>>>>>> 4d3e91ea122284150fa64b0801f36efb046837ab

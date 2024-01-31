@@ -1,7 +1,21 @@
+<<<<<<< HEAD
 # Guided Assignment - Stack Using Singly Linked List
+=======
+# Table of Contents
 
-## Introduction
+| Step Number | Step Description                 |
+|-------------|---------------------------------|
+| 1           | [Introduction](Steps/Introduction.md)           |
+| 2           | [Built-In Stack](Steps/BuiltInStack.md)           |
+| 3           | [MyStackClass](Steps/One_MyStackClass.md)         |
+| 4           | [Push Operation](Steps/Two_Push.md)               |
+| 5           | [Pop Operation](Steps/Three_Pop.md)               |
+| 6           | [Displaying Elements](Steps/Five_Display.md)      |
+| 7           | [Checking If Stack Is Empty](Steps/Six_IsEmpty.md) |
+>>>>>>> 4d3e91ea122284150fa64b0801f36efb046837ab
 
+
+<<<<<<< HEAD
 **What is a Stack:** A stack is a linear data structure that follows the Last In, First Out (LIFO) principle. This means that the last element added to the stack will be the first one to be removed.
 
 **Why is it Important:** Stacks are fundamental in computer science and are used in various applications like undo mechanisms in text editors, function call management in programming languages, and algorithmic problem solving.
@@ -291,3 +305,6 @@ class Program
 | Total               |                                                                   | 80     |
 
 This assignment guides you through creating a stack using a singly linked list, emphasizing the LIFO principle and efficient stack operations.
+=======
+1. [Introduction](Introduction.md) | 2. [Built-In Stack](BuiltInStack.md) | 3. [MyStackClass](One_MyStackClass.md) | 4. [Push Operation](Two_Push.md) | 5. [Pop Operation](Three_Pop.md) | 6. [Displaying Elements](Five_Display.md) | 7. [Checking If Stack Is Empty](Six_IsEmpty.md)
+>>>>>>> 4d3e91ea122284150fa64b0801f36efb046837ab
