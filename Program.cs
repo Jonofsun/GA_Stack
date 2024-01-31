@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
+
             Stack<int> stack = new Stack<int>();
 
             // Push elements
@@ -26,14 +26,5 @@
     }
 }
 
-=======
-            Stack<string> builtInStack = new Stack<string>();
 
-            
 
-        } // Main
-
-    } // class
-
-} // namespace
->>>>>>> 4d3e91ea122284150fa64b0801f36efb046837ab
