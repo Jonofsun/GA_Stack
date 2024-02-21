@@ -1,7 +1,10 @@
-﻿namespace GA_Stack
+﻿namespace GA_Stack_SinglyLinkedList_JonathanReed
 {
     internal class Program
     {
+        /* Jonathan Reed
+         * 2/20/2024
+         */
         static void Main(string[] args)
         {
 

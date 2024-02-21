@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GA_Stack
+namespace GA_Stack_SinglyLinkedList_JonathanReed
 {
     class Stack<T>
     {
